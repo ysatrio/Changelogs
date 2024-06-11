@@ -1,0 +1,10 @@
+theme: minima
+title: Website of iSatrio
+description: Just another website from iSatrio
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://isatrio.github.io/Changelogs/"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
